@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(exercise4)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(app src/main.cpp src/shape.cpp src/circle.cpp src/triangle.cpp src/rectangle.cpp src/polygon.cpp)
+include_directories(include)

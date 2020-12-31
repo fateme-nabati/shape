@@ -1,0 +1,3 @@
+/home/fn/exercise4_991/build/CMakeFiles/rebuild_cache.dir
+/home/fn/exercise4_991/build/CMakeFiles/app.dir
+/home/fn/exercise4_991/build/CMakeFiles/edit_cache.dir
