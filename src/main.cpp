@@ -201,4 +201,5 @@ float totalPerimeter(vector<Shape *> & shapes, int x)
 
   }
   return sum;
+  cout << "hello fateme!!!!!" << endl;
 }
